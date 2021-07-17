@@ -1,0 +1,36 @@
+body
+{
+background-color: #171717;
+}
+hr
+{
+
+  border-style: dotted none none;
+border-color: white;
+border-width: 5px;
+  width: 5%;
+}
+h2
+{
+  color: white;
+}
+p
+{
+  color: white;
+}
+h1
+{
+  color: white;
+}
+ul
+{
+  color: white;
+}
+ol
+{
+  color: white;
+}
+table
+{
+  color: white;
+}
